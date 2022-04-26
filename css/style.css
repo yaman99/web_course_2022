@@ -1,0 +1,28 @@
+*{
+    /* border: 1px solid red; */
+}
+.text-1 , #text-2 {
+    font-size: 10px;
+}
+
+p.text-1{
+    color: blue;
+}
+h3.text-1{
+    color: green;
+}
+#text-2{
+    color: red;
+}
+body{
+    background-color: rgba(22, 20, 20, 0.2);
+}
+.div-1{
+    text-align: start;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    line-height: 30px;
+    word-spacing: 20px;
+}
+
