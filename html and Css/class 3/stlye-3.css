@@ -1,0 +1,111 @@
+/* .text-1 , .text-2{
+    color: red;
+} */
+
+/* div > p{
+    color: red;
+} */
+
+/* div + h1{
+    color: blue;
+} */
+
+/* div ~ h1{
+    color: blue;
+} */
+
+/* .div-1{
+    border: 2px solid red;
+    background-image: url('../images/1.png');
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+} */
+
+.text-border{
+    /* border-style: solid;
+    border-width: 5px;
+    border-color: brown;
+
+    border-top-style: dashed;
+    border-top-color: blue; */
+    /* border: 5px solid brown; */
+
+    /* border-top: 5px dashed blue; */
+
+    /* border-radius: 30px; */
+}
+
+/* .text-padding{
+    padding: 10px;
+}
+
+.text-margin{
+    margin: 10px;
+}
+
+.inline-style{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    margin-left: 9px;
+
+    margin: 20px 10px 5px 9px;
+} */
+
+/* p{
+    max-width: 400px;
+    background-color: red;
+    min-height: 100px;
+} */
+
+/* .relative{
+    margin-top: 100px;
+    max-width: 200px;
+    border: 3px solid red;
+    background-color: red;
+    min-height: 100px;
+    position: relative;
+    left: 10px;
+}
+
+.absolute{
+    position: absolute;
+    top: 50px;
+    right: 0px;
+    border: 3px solid blue;
+    background-color: blue;
+}
+
+.fixed{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+.layer1{
+    z-index: 3;
+}
+.layer3{
+    z-index: 999;
+} */
+a:visited{
+    color: blue;
+}
+
+a:link{
+    color: red;
+}
+a:hover{
+    background-color: red;
+}
+a:active{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+.right{
+    float: right;
+}

@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style-type:none ;
+    background-color: #7952b3;
+
+}
+li{
+    /* float: left; */
+    display: inline-block;
+    /* border-right:1px solid #bbb ; */
+}
+li a{
+    display: block;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+}
+.float-right{
+    float: right;
+}
+
+.box{
+    padding: 15px;
+    background-color: #bbb;
+    border: 1px solid black;
+    /* display: flex; */
+}
+
